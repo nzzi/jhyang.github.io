@@ -1,2 +1,2 @@
-# jhyang.github.io
+# nzzi.github.io
 Frontend Developer, Korea
